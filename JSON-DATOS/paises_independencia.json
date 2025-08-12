@@ -1,0 +1,134 @@
+{
+  "Argentina": {
+    "fecha": "09-07-1816",
+    "dia": "Lunes",
+    "mes": "Julio",
+    "año": 1816
+  },
+  "Brasil": {
+    "fecha": "07-09-1822",
+    "dia": "Viernes",
+    "mes": "Septiembre",
+    "año": 1822
+  },
+  "Canadá": {
+    "fecha": "01-07-1867",
+    "dia": "Lunes",
+    "mes": "Julio",
+    "año": 1867
+  },
+  "Chile": {
+    "fecha": "18-09-1810",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1810
+  },
+  "Colombia": {
+    "fecha": "20-07-1810",
+    "dia": "Jueves",
+    "mes": "Julio",
+    "año": 1810
+  },
+  "México": {
+    "fecha": "16-09-1810",
+    "dia": "Domingo",
+    "mes": "Septiembre",
+    "año": 1810
+  },
+  "Perú": {
+    "fecha": "28-07-1821",
+    "dia": "Jueves",
+    "mes": "Julio",
+    "año": 1821
+  },
+  "Venezuela": {
+    "fecha": "05-07-1811",
+    "dia": "Viernes",
+    "mes": "Julio",
+    "año": 1811
+  },
+  "Ecuador": {
+    "fecha": "10-08-1809",
+    "dia": "Viernes",
+    "mes": "Agosto",
+    "año": 1809
+  },
+  "Bolivia": {
+    "fecha": "06-08-1825",
+    "dia": "Sábado",
+    "mes": "Agosto",
+    "año": 1825
+  },
+  "Uruguay": {
+    "fecha": "25-08-1825",
+    "dia": "Jueves",
+    "mes": "Agosto",
+    "año": 1825
+  },
+  "Paraguay": {
+    "fecha": "14-05-1811",
+    "dia": "Martes",
+    "mes": "Mayo",
+    "año": 1811
+  },
+  "Costa Rica": {
+    "fecha": "15-09-1821",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1821
+  },
+  "Panamá": {
+    "fecha": "03-11-1903",
+    "dia": "Martes",
+    "mes": "Noviembre",
+    "año": 1903
+  },
+  "Honduras": {
+    "fecha": "15-09-1821",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1821
+  },
+  "El Salvador": {
+    "fecha": "15-09-1821",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1821
+  },
+  "Nicaragua": {
+    "fecha": "15-09-1821",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1821
+  },
+  "Guatemala": {
+    "fecha": "15-09-1821",
+    "dia": "Sábado",
+    "mes": "Septiembre",
+    "año": 1821
+  },
+  "República Dominicana": {
+    "fecha": "27-02-1844",
+    "dia": "Lunes",
+    "mes": "Febrero",
+    "año": 1844
+  },
+  "Jamaica": {
+    "fecha": "06-08-1962",
+    "dia": "Lunes",
+    "mes": "Agosto",
+    "año": 1962
+  },
+  "Trinidad y Tobago": {
+    "fecha": "31-08-1962",
+    "dia": "Viernes",
+    "mes": "Agosto",
+    "año": 1962
+  },
+  "Barbados": {
+    "fecha": "30-11-1966",
+    "dia": "Miércoles",
+    "mes": "Noviembre",
+    "año": 1966
+  }
+}

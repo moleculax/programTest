@@ -1,0 +1,188 @@
+[
+    {
+        "pais": "Afganistán",
+        "capital": "Kabul",
+        "latitud": 34.5553,
+        "longitud": 69.2075
+    },
+    {
+        "pais": "Alemania",
+        "capital": "Berlín",
+        "latitud": 52.52,
+        "longitud": 13.405
+    },
+    {
+        "pais": "Arabia Saudita",
+        "capital": "Riad",
+        "latitud": 24.7136,
+        "longitud": 46.6753
+    },
+    {
+        "pais": "Argentina",
+        "capital": "Buenos Aires",
+        "latitud": -34.6037,
+        "longitud": -58.3816
+    },
+    {
+        "pais": "Australia",
+        "capital": "Canberra",
+        "latitud": -35.2809,
+        "longitud": 149.13
+    },
+    {
+        "pais": "Bangladés",
+        "capital": "Daca",
+        "latitud": 23.8103,
+        "longitud": 90.4125
+    },
+    {
+        "pais": "Brasil",
+        "capital": "Brasilia",
+        "latitud": -15.8267,
+        "longitud": -47.9218
+    },
+    {
+        "pais": "Canadá",
+        "capital": "Ottawa",
+        "latitud": 45.4215,
+        "longitud": -75.6972
+    },
+    {
+        "pais": "Chile",
+        "capital": "Santiago",
+        "latitud": -33.4489,
+        "longitud": -70.6693
+    },
+    {
+        "pais": "China",
+        "capital": "Pekín",
+        "latitud": 39.9042,
+        "longitud": 116.4074
+    },
+    {
+        "pais": "Colombia",
+        "capital": "Bogotá",
+        "latitud": 4.711,
+        "longitud": -74.0721
+    },
+    {
+        "pais": "Corea del Norte",
+        "capital": "Pionyang",
+        "latitud": 39.0392,
+        "longitud": 125.7625
+    },
+    {
+        "pais": "Corea del Sur",
+        "capital": "Seúl",
+        "latitud": 37.5665,
+        "longitud": 126.978
+    },
+    {
+        "pais": "Egipto",
+        "capital": "El Cairo",
+        "latitud": 30.0444,
+        "longitud": 31.2357
+    },
+    {
+        "pais": "España",
+        "capital": "Madrid",
+        "latitud": 40.4168,
+        "longitud": -3.7038
+    },
+    {
+        "pais": "Estados Unidos",
+        "capital": "Washington D.C.",
+        "latitud": 38.9072,
+        "longitud": -77.0369
+    },
+    {
+        "pais": "Francia",
+        "capital": "París",
+        "latitud": 48.8566,
+        "longitud": 2.3522
+    },
+    {
+        "pais": "India",
+        "capital": "Nueva Delhi",
+        "latitud": 28.6139,
+        "longitud": 77.209
+    },
+    {
+        "pais": "Indonesia",
+        "capital": "Yakarta",
+        "latitud": -6.2088,
+        "longitud": 106.8456
+    },
+    {
+        "pais": "Irán",
+        "capital": "Teherán",
+        "latitud": 35.6892,
+        "longitud": 51.389
+    },
+    {
+        "pais": "Italia",
+        "capital": "Roma",
+        "latitud": 41.9028,
+        "longitud": 12.4964
+    },
+    {
+        "pais": "Japón",
+        "capital": "Tokio",
+        "latitud": 35.6828,
+        "longitud": 139.7595
+    },
+    {
+        "pais": "México",
+        "capital": "Ciudad de México",
+        "latitud": 19.4326,
+        "longitud": -99.1332
+    },
+    {
+        "pais": "Pakistán",
+        "capital": "Islamabad",
+        "latitud": 33.6844,
+        "longitud": 73.0479
+    },
+    {
+        "pais": "Perú",
+        "capital": "Lima",
+        "latitud": -12.0464,
+        "longitud": -77.0428
+    },
+    {
+        "pais": "Reino Unido",
+        "capital": "Londres",
+        "latitud": 51.5074,
+        "longitud": -0.1278
+    },
+    {
+        "pais": "Rusia",
+        "capital": "Moscú",
+        "latitud": 55.7558,
+        "longitud": 37.6173
+    },
+    {
+        "pais": "Sudáfrica",
+        "capital": "Pretoria",
+        "latitud": -25.7479,
+        "longitud": 28.2293
+    },
+    {
+        "pais": "Tailandia",
+        "capital": "Bangkok",
+        "latitud": 13.7563,
+        "longitud": 100.5018
+    },
+    {
+        "pais": "Turquía",
+        "capital": "Ankara",
+        "latitud": 39.9334,
+        "longitud": 32.8597
+    },
+    {
+        "pais": "Venezuela",
+        "capital": "Caracas",
+        "latitud": 10.4806,
+        "longitud": -66.9036
+    }
+]

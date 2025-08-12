@@ -1,0 +1,62 @@
+[
+    {
+        "pais": "China",
+        "superficie_km2": 9596960,
+        "poblacion": 1411778724,
+        "densidad_hab_km2": 147
+    },
+    {
+        "pais": "India",
+        "superficie_km2": 3287263,
+        "poblacion": 1366417754,
+        "densidad_hab_km2": 416
+    },
+    {
+        "pais": "Estados Unidos",
+        "superficie_km2": 9833520,
+        "poblacion": 331893745,
+        "densidad_hab_km2": 34
+    },
+    {
+        "pais": "Indonesia",
+        "superficie_km2": 1904569,
+        "poblacion": 273753191,
+        "densidad_hab_km2": 144
+    },
+    {
+        "pais": "Pakistán",
+        "superficie_km2": 881913,
+        "poblacion": 225199937,
+        "densidad_hab_km2": 255
+    },
+    {
+        "pais": "Brasil",
+        "superficie_km2": 8515767,
+        "poblacion": 213993437,
+        "densidad_hab_km2": 25
+    },
+    {
+        "pais": "Rusia",
+        "superficie_km2": 17098246,
+        "poblacion": 145912025,
+        "densidad_hab_km2": 9
+    },
+    {
+        "pais": "Japón",
+        "superficie_km2": 377975,
+        "poblacion": 125507472,
+        "densidad_hab_km2": 332
+    },
+    {
+        "pais": "México",
+        "superficie_km2": 1964375,
+        "poblacion": 126705138,
+        "densidad_hab_km2": 65
+    },
+    {
+        "pais": "Alemania",
+        "superficie_km2": 357022,
+        "poblacion": 83900473,
+        "densidad_hab_km2": 235
+    }
+]
